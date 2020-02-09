@@ -8,3 +8,7 @@ puts my_string
 
 puts "I love epresso".length   
 #  returns 14 
+
+puts "Eric".reverse  
+# returns cirE
+
