@@ -12,3 +12,8 @@ puts "I love epresso".length
 puts "Eric".reverse  
 # returns cirE
 
+puts "eric".upcase
+#  returns ERIC
+
+puts "ERIC".downcase
+#  returns eric 
