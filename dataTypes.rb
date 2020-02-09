@@ -17,3 +17,12 @@ puts "eric".upcase
 
 puts "ERIC".downcase
 #  returns eric 
+
+
+=begin
+
+This is for when
+
+you have a lot of comments to write! 
+
+=end
