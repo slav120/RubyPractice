@@ -26,3 +26,8 @@ This is for when
 you have a lot of comments to write! 
 
 =end
+
+name = "Jamie"
+
+puts name.downcase.reverse.upcase
+
