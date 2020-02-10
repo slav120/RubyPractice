@@ -7,3 +7,12 @@ elsif 10 == 5
 else
   puts "10 is greater than 5, so I'm being printed!"
 end
+
+
+hungry = false
+
+unless hungry 
+  puts "I'm writing Ruby programs!"
+else 
+  puts "Time to eat!"
+end 
