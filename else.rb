@@ -1,5 +1,3 @@
-
-
 if 10 < 5
   puts "I'm not being printed because 10 is not less than 5!"
 elsif 10 == 5
