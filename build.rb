@@ -5,6 +5,7 @@ user_input = gets.chomp
 user_input.downcase!
 
 if user_input.include? "s"
+  # replaces s in your string with th 
   user_input.gsub!(/s/, "th")
 else
   puts "Nothing to do here!"
