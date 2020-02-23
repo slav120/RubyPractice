@@ -11,3 +11,8 @@ else
 end
   
 puts "Your string is: #{user_input}"
+
+
+# // if there is an s to your input, will add th before 
+# // else puts nothing to do here 
+# // says your string is then prints your string 
